@@ -33,13 +33,13 @@ console.log(key)
 
 
       answers.push(Q1.value);
-      if(Q2.value='9')
+      if(Q2.value=='9')
       {
         answers.push(text2.value);
       }else{
         answers.push(Q2.value);
       }
-      if(Q3.value='9'){
+      if(Q3.value=='9'){
         answers.push(text3.value);
       }else{
         answers.push(Q3.value);
